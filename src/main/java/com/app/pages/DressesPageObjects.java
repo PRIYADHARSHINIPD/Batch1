@@ -8,7 +8,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.PageFactory;
 public class DressesPageObjects extends BasePage {
-	
+	//hello
+
 	@FindBy(xpath="//*[@id=\"center_column\"]/ul/li[2]/div/div[1]/div/a[1]/img")
 	private WebElement dress1;
 	@FindBy(xpath="//*[@id=\"layered_id_attribute_group_1\"]")
